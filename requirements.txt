@@ -1,0 +1,9 @@
+boto3
+django
+django_heroku
+django-storages
+django-workers
+gunicorn
+Pillow
+python-dotenv
+requests
